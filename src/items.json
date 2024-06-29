@@ -1,0 +1,33 @@
+[
+    {
+        "id" : "1",
+        "nombre" : "closet",
+        "precio" : "700000",
+        "info" : "Madera aglomerada recubierta con Melamina - MDP 200x230",
+        "marca" : "propia"
+    },
+
+    {
+        "id" : "2",
+        "nombre" : "mueble de baño",
+        "precio" : "400000",
+        "info" : "Madera aglomerada recubierta con Melamina - MDP 70x60",
+        "marca" : "propia"
+    },
+
+    {
+        "id" : "3",
+        "nombre" : "cocina",
+        "precio" : "1300000",
+        "info" : "Madera aglomerada recubierta con Melamina - MDP 240x180",
+        "marca" : "propia"
+    },
+
+    {
+        "id" : "4",
+        "nombre" : "comedor",
+        "precio" : "1200000",
+        "info" : "mesa en madera 4 puestos",
+        "marca" : "propia"
+    }
+]
